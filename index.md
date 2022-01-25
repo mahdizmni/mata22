@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="font-size:15px;">Tutorial on Mondays 7pm EST</p> 
+<p style="font-size:16px;">Tutorial on Mondays 7pm EST</p> 
 
 ## Updates
 
