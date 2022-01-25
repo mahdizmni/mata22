@@ -4,7 +4,7 @@ layout: default
 
 Tutorials on Mondays 7pm EST
 <br>
------
+-----------------
 
 ## Updates
 
