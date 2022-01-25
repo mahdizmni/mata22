@@ -10,5 +10,5 @@ Term Test 1 on Feb 16th is going to be in-person.     &emsp;&emsp;&emsp;&emsp;  
 
 ## Homework 
 
-Find the relation between 'rank' of a matrix and the number of <br> solutions to the system of equations
+Find the relation between 'rank' of a matrix and the number of solutions to the system of equations
 
