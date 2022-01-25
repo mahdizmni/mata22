@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-permalink: /home/
+title: Feedback
+permalink: /feedback/
 ---
 
 feedback form here
