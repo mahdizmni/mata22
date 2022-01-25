@@ -4,8 +4,8 @@ layout: default
 
 ## Updates
 
-We are going back in-person, starting Feb 28th &emps &emsp&emps &emsp             -Jan 25 <br>
-Term Test 1 on Feb 16th is going to be in-person.     &emps &emsp&emps &emsp        -Jan 25
+We are going back in-person, starting Feb 28th &empsp;&emsp;&emsp;&emsp;             -Jan 25 <br>
+Term Test 1 on Feb 16th is going to be in-person.     &empsp;&emsp;&emsp;&emsp;        -Jan 25
 
 
 ## Homework 
