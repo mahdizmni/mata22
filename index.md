@@ -3,7 +3,6 @@ layout: default
 ---
 
 <p style="color:blue;font-size:18px;">Tutorial on Mondays 7pm EST</p> 
-<br>
 -----------------
 
 ## Updates
