@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Tutorials on Mondays 7pm EST
+//----------------------------
 ## Updates
 
 - We are going back in-person, starting Feb 28th.       &emsp;&emsp;&emsp;&emsp;             -Jan 25 <br>
