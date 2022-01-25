@@ -4,4 +4,12 @@ title: Notes
 permalink: /notes/
 ---
 
-notes for tutorial
+Here you can find notes for each week and some extra resources
+-
+
+### Week 1
+
+
+### Week 2
+
+
