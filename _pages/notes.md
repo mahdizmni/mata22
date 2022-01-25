@@ -3,7 +3,7 @@ layout: page
 title: Notes
 permalink: /notes/
 ---
-<br><br>
+<br>
 Here you can find notes for each week and some extra resources
 <br>
 <h3> Week 1</h3>
