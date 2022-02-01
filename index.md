@@ -13,5 +13,5 @@ fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 
 ## Homework 
 
-+ Find the relation between 'rank' of a matrix and the number of solutions to the system of equations
++ There are two h.w problems in Week 3 notes in 'Stretchy Matrix' part, denoted by squares.
 
