@@ -19,3 +19,6 @@ pre-material
 [![youtube](https://github.com/mahdizmni/mata22/raw/master/images/thumbnails/7Mo4S2wyMg4-HD.jpg)](https://www.youtube.com/watch?v=7Mo4S2wyMg4)
 
 ### Week 4
+pre-material :
+[composition of L.T I](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-1)
+[composition of L.T II](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-2)
