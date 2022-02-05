@@ -15,9 +15,8 @@ Here you can find tutorial notes for each week and some extra resources
 
 ### Week 3
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/week3.png)   <br>
-pre-material <br>
-[![youtube](https://github.com/mahdizmni/mata22/raw/master/images/thumbnails/matrix-vector.jpg)](https://www.youtube.com/watch?v=7Mo4S2wyMg4)
-
+pre-material :
+[matrix-vector multiplication](https://www.youtube.com/watch?v=7Mo4S2wyMg4)
 ### Week 4
 pre-material :
-[composition of L.T I](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-1) 
+[composition of L.T I](https://www.youtube.com/watch?v=f_DTiXZpb8M) 
