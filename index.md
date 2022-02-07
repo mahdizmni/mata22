@@ -4,7 +4,7 @@ layout: default
 
 ## Updates
 
-- Class will be held in IC 230.     &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp; -Feb 7 <br>
+- Class will be held in IC 230.     &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; -Feb 7 <br>
 - If you are not able to attend tutorials in-person till reading week, &emsp; -Jan 28 &emsp;&emsp;&emsp;&emsp;
 fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 - Tutorial notes will keep getting posted during in-person classes. &emsp; -Jan 28 <br>
