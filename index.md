@@ -14,5 +14,4 @@ fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 
 ## Homework 
 
-+ There are two h.w problems in Week 3 notes in 'Stretchy Matrix' part, denoted by squares.
-
++ Try to find the relation between rank of a matrix, and its surjectivity / injectivity of its corresponding linear Transformation.
