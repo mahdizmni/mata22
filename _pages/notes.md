@@ -21,7 +21,7 @@ pre-material :
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/Week%205%20Tutorial%20Answers.pdf) <br>
 <span style="font-size:14px">
 credit of this week's notes is for dylan, <br>
- also note that in the last two slides, you should justify _every_ steps of your proof 
+ also note that in the last two slides, you should justify _every_ step of your proof 
 </span> <br>
 pre-material :
 [composition of L.T I](https://www.youtube.com/watch?v=f_DTiXZpb8M) 
