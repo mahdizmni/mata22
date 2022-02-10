@@ -19,7 +19,7 @@ pre-material :
 [matrix-vector multiplication](https://www.youtube.com/watch?v=7Mo4S2wyMg4)
 ### Week 4
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/Week%205%20Tutorial%20Answers.pdf) <br>
-<span style="font-size:10px">
+<span style="font-size:14px">
 credit of this week's notes is for dylan, also note that in the last two slides, you should justify every steps of your proof 
 </span> <br>
 pre-material :
