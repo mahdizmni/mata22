@@ -15,4 +15,4 @@ fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 
 ## Homework 
 
-+ Try to find the relation between rank of a matrix, and its surjectivity / injectivity of its corresponding linear Transformation.
++ ** Good luck on your midterm **
