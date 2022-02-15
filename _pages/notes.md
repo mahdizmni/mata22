@@ -25,3 +25,6 @@ credit of this week's notes is for dylan, <br>
 </span> <br>
 pre-material :
 [composition of L.T I](https://www.youtube.com/watch?v=f_DTiXZpb8M) 
+
+### Week 5
+[notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-6.pdf)
