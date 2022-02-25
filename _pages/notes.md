@@ -28,3 +28,6 @@ pre-material :
 
 ### Week 5
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-6.pdf)
+
+### Week 6
+pre-material : read chapters on subspaces, span and linear independence </br>
