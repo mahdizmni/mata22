@@ -15,4 +15,4 @@ fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 
 ## Homework 
 
-+ ** Good luck on your midterm **
++ Try to prove: Let U be a subset of R^n, and U = span{x1, x2,..., xn}. Show that U is a subspace of R^n.
