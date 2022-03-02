@@ -30,5 +30,5 @@ pre-material :
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-6.pdf)
 
 ### Week 6
-[notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-7-live.pdf) [solutions](https://github.com/mahdizmni/mata22/raw/master/notes/Tut_slides_typed.pdf)
-pre-material : read chapters on subspaces, span and linear independence <br>
+[notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-7-live.pdf) [solutions](https://github.com/mahdizmni/mata22/raw/master/notes/Tut_slides_typed.pdf)<br>
+pre-material : read chapters on subspaces, span and linear independence 
