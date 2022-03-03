@@ -36,3 +36,6 @@ credit of this week's solutions is for haylyn, <br>
  let me know if you had any questions, and as always don't forget to justify _every_ step of your proof
 </span> <br>
 pre-material : read chapters on subspaces, span and linear independence 
+
+### Week 7
+pre-material : do the left over proofs from last week
