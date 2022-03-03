@@ -38,4 +38,4 @@ credit of this week's solutions is for haylyn, <br>
 pre-material : read chapters on subspaces, span and linear independence 
 
 ### Week 7
-pre-material : do the left over proofs from last week
+pre-material : do the left over proofs from last week + review definition of basis
