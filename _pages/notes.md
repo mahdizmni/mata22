@@ -38,4 +38,5 @@ credit of this week's solutions is for haylyn, <br>
 pre-material : read chapters on subspaces, span and linear independence 
 
 ### Week 7
+[notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-8-live.pdf) <br>
 pre-material : do the left over proofs from last week + review definition of basis
