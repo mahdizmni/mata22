@@ -15,4 +15,4 @@ fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 
 ## Homework 
 
-+ There are couple of left proofs in slides.
++ Try finding change of basis matrix.
