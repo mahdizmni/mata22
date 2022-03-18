@@ -4,7 +4,7 @@ layout: default
 
 ## Updates
 
-- T.t 2 info released. &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;-Mar 18 <br>
+- T.t 2 info released. &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Mar 18 <br>
 - Today OH from 6:40 - 7:10 &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;-Feb 14 <br>
 - Class will be held in IC 230.     &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; -Feb 7 <br>
 - If you are not able to attend tutorials in-person till reading week, &emsp; -Jan 28 &emsp;&emsp;&emsp;&emsp;
