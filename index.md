@@ -16,4 +16,4 @@ fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 
 ## Homework 
 
-+ Try finding change of basis matrix.
++ *good luck on your Term Test!*
