@@ -50,4 +50,5 @@ pre-material : review definition of vector space, and solve textbook exercises r
 pre-material: [Visualizing Diagonalization & Eigenbases](https://www.youtube.com/watch?v=EJG6gBeVdfw)
 
 ### Week 10
+[notes](https://github.com/mahdizmni/mata22/raw/master/notes/MATA22_Week_11_Solutions.pdf)\
 pre-material: Null
