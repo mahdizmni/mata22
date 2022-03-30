@@ -21,7 +21,7 @@ pre-material :
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/Week%205%20Tutorial%20Answers.pdf) <br>
 <span style="font-size:14px">
 credit of this week's notes is for dylan, <br>
- also note that in the last two slides, you should justify _every_ step of your proof 
+ also note that in the last two slides, you should justify _every_ step of your proof.
 </span> <br>
 pre-material :
 [composition of L.T I](https://www.youtube.com/watch?v=f_DTiXZpb8M) 
@@ -33,7 +33,7 @@ pre-material :
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-7-live.pdf) [solutions](https://github.com/mahdizmni/mata22/raw/master/notes/Tut_slides_typed.pdf)<br>
 <span style="font-size:14px">
 credit of this week's solutions is for haylyn, <br>
- let me know if you had any questions, and as always don't forget to justify _every_ step of your proof
+ let me know if you had any questions, and as always don't forget to justify _every_ step of your proof.
 </span> <br>
 pre-material : read chapters on subspaces, span and linear independence 
 
