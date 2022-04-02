@@ -56,3 +56,6 @@ credit of this week's solutions is for dylan and justin, <br>
  let me know if you had any questions.
 </span> <br>
 pre-material: Null
+
+### Week 11
+pre-material: [Quotients of Vector Spaces](https://www.youtube.com/watch?v=cbcgfl-FYuQ)
