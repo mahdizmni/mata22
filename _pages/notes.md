@@ -58,4 +58,5 @@ credit of this week's solutions is for dylan and justin, <br>
 pre-material: Null
 
 ### Week 11
+[notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-12-live.pdf)\
 pre-material: [Quotients of Vector Spaces](https://www.youtube.com/watch?v=cbcgfl-FYuQ)
