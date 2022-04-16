@@ -16,4 +16,4 @@ fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 
 ## Homework 
 
-+ Goodluck for finals!
++ Good luck for finals!
