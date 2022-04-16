@@ -16,4 +16,4 @@ fill out this [form](https://forms.gle/4oG6zSNLyhtceX6d8)
 
 ## Homework 
 
-+ List of topics are out. Let me know if you want to have a short presentation.
++ Goodluck for finals!
