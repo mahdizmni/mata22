@@ -47,7 +47,7 @@ pre-material : review definition of vector space, and solve textbook exercises r
 
 ### Week 9
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-10-live.pdf) <br>
-pre-material: [Visualizing Diagonalization & Eigenbases](https://www.youtube.com/watch?v=EJG6gBeVdfw)
+pre-material : [Visualizing Diagonalization & Eigenbases](https://www.youtube.com/watch?v=EJG6gBeVdfw)
 
 ### Week 10
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/MATA22_Week_11_Solutions.pdf)\
@@ -55,8 +55,8 @@ pre-material: [Visualizing Diagonalization & Eigenbases](https://www.youtube.com
 credit of this week's solutions is for dylan and justin, <br>
  let me know if you had any questions.
 </span> <br>
-pre-material: Null
+pre-material : Null
 
 ### Week 11
 [notes](https://github.com/mahdizmni/mata22/raw/master/notes/mat-a22-tutorial-activity-week-12-live.pdf)\
-pre-material: [Quotients of Vector Spaces](https://www.youtube.com/watch?v=cbcgfl-FYuQ)
+pre-material : [Quotients of Vector Spaces](https://www.youtube.com/watch?v=cbcgfl-FYuQ)
